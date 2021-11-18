@@ -1,0 +1,27 @@
+body{
+    background-color: lime;
+}
+#Score{
+    float: left;
+    font-weight: bold;
+}
+#Timer{
+    float: right;
+    font-weight: bold;
+}
+#name{
+    color: red;
+    text-decoration-style: solid;
+}
+#lable{
+    text-decoration-style: solid;
+}
+#confidence{
+    text-decoration-style: solid;
+}
+#show_sketch{
+    float:right;
+}
+h1{
+    font-weight: bolder;
+}
